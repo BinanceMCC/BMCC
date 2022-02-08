@@ -1,5 +1,4 @@
 # BMCC
-Binance Multi-Chain Capital
 
 Binance Multi-Chain Capital can be described as being a Defi 3.0 solution.
 
