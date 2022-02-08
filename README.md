@@ -22,12 +22,12 @@ GameFi Operations:
 
 We have a few more bright ideas that will become a mainstay in reducing sell pressure. We have to keep this held tightly lipped before the ideas are copied.
 
-Website: https://bmcc.finance
-Dashboard: https://app.bmcc.finance
-Documentation: https://docs.bmcc.finance
-Coingecko: https://www.coingecko.com/en/coins/binance-multi-chain-capital
-Medium: https://medium.com/@bmccapital1 
-Audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/BINANCE_MULTI_CHAIN_CAPITAL_Full_Smart_Contract_Security_Audit.pdf 
-Telegram: https://t.me/BINANCEMCC 
-Twitter: https://twitter.com/Binancemcc 
+- Website: https://bmcc.finance
+- Dashboard: https://app.bmcc.finance
+- Documentation: https://docs.bmcc.finance
+- Coingecko: https://www.coingecko.com/en/coins/binance-multi-chain-capital
+- Medium: https://medium.com/@bmccapital1 
+- Audit: https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/BINANCE_MULTI_CHAIN_CAPITAL_Full_Smart_Contract_Security_Audit.pdf 
+- Telegram: https://t.me/BINANCEMCC 
+- Twitter: https://twitter.com/Binancemcc 
 
